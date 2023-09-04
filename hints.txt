@@ -1,0 +1,15 @@
+low installments vs high installments - DONE
+high income vs low income - DONE
+low interest rate vs high interest rate - DONE
+high loan amount vs low loan amount - DONE
+amount tenure - DONE
+Segment home ownership and check its value loan repayment status
+Verification source - DONE
+application_type and loan status - no relation as data only has individual applications. - DONE
+
+Bivariate analysis:
+-> employee length relation with rate of interest
+-> group on zip code
+-> correlation of annual income with interest rate
+
+https://drive.google.com/drive/folders/1Hv3bFzYiFWkmgHr0_8gov5yhiGdC8b5M
