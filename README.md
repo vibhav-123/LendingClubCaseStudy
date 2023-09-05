@@ -26,8 +26,9 @@ The following steps are taken while doing the analysis:
 ## Conclusions
 1. Customers with higher loan time period have a higher tendency to default their loans.
 2. Customers with high principal amount are more likely to default their loans.
-3. Customers having an annual income less than ₹75000 are more likely to default their loans.
-4. Customers living on rent or mortgage have a 50% rate of loan defaulting among the total defaulters.
+3. Customers with high interest rate are more likely to default their loans.
+4. Customers having an annual income less than ₹75000 are more likely to default their loans.
+5. Customers living on rent or mortgage have a 50% rate of loan defaulting among the total defaulters.
 
 ## Technologies Used
 - Python v3.0
