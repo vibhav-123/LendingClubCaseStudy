@@ -9,7 +9,9 @@ application_type and loan status - no relation as data only has individual appli
 
 Bivariate analysis:
 -> employee length relation with rate of interest
--> group on zip code
 -> correlation of annual income with interest rate
 
 https://drive.google.com/drive/folders/1Hv3bFzYiFWkmgHr0_8gov5yhiGdC8b5M
+
+
+[14.99 13.94 14.07 13.55 13.73 12.56 13.45 13.95 13.77 12.92 14.83]
